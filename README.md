@@ -1,2 +1,2 @@
-# .github
-Open Prediction Markets
+# Open Prediction Markets
+
